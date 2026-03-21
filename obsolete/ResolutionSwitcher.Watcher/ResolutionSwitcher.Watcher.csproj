@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <AssemblyName>ResolutionSwitcher.Watcher</AssemblyName>
+    <RootNamespace>ResolutionSwitcher.Watcher</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ResolutionSwitcher.Application\ResolutionSwitcher.Application.csproj" />
+    <ProjectReference Include="..\ResolutionSwitcher.Infrastructure.Windows\ResolutionSwitcher.Infrastructure.Windows.csproj" />
+  </ItemGroup>
+
+</Project>

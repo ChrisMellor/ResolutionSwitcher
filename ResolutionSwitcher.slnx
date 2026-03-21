@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/ResolutionSwitcher.Domain/ResolutionSwitcher.Domain.csproj" />
+  <Project Path="src/ResolutionSwitcher.Application/ResolutionSwitcher.Application.csproj" />
+  <Project Path="src/ResolutionSwitcher.Infrastructure/ResolutionSwitcher.Infrastructure.csproj" />
+  <Project Path="src/ResolutionSwitcher.Desktop/ResolutionSwitcher.Desktop.csproj" />
+</Solution>
