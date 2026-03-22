@@ -1,5 +1,5 @@
 using ResolutionSwitcher.Application.Abstractions.Configuration;
-using ResolutionSwitcher.Domain.Configuration;
+using ResolutionSwitcher.Domain.Configuration.Models;
 
 namespace ResolutionSwitcher.Application.Configuration.Commands;
 

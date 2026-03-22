@@ -1,4 +1,4 @@
-using ResolutionSwitcher.Application.Watcher;
+using ResolutionSwitcher.Application.Watcher.Status;
 
 namespace ResolutionSwitcher.Application.Abstractions.Watcher;
 
