@@ -1,4 +1,4 @@
-using ResolutionSwitcher.Domain.Display;
+using ResolutionSwitcher.Domain.Display.Models;
 
 namespace ResolutionSwitcher.Application.Display.Queries;
 
